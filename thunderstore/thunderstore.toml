@@ -6,7 +6,7 @@ namespace = "gogas1"
 name = "LookingAroundKBM"
 versionNumber = "0.1.0"
 description = "Allows to look around using keyboard and mouse"
-websiteUrl = "link to the git repo"
+websiteUrl = "https://github.com/Gogas1/LookingAroundKBM"
 containsNsfwContent = false
 
 [package.dependencies]
